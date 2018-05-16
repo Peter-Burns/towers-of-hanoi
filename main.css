@@ -1,0 +1,27 @@
+#ring-1{
+    background-color:blue;
+    width:50px;
+}
+#ring-2{
+    background-color:green;
+    width:100px;
+}
+#ring-3{
+    background-color:yellow;
+    width:150px;
+}
+#ring-4{
+    background-color:orange;
+    width:200px;
+}
+#ring-5{
+    background-color:red;
+    width:250px;
+}
+.ring{
+    margin: auto;
+    height:20px;
+}
+#game-display{
+    margin-top:20px;
+}
